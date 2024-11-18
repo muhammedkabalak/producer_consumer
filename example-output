@@ -1,0 +1,15 @@
+Produced: 1167 | Buffer Count: 1
+Produced: 7105 | Buffer Count: 2
+Consumed: 1167 | Buffer Count: 1
+Produced: 15381 | Buffer Count: 2
+Produced: 5635 | Buffer Count: 3
+Consumed: 7105 | Buffer Count: 2
+Produced: 8645 | Buffer Count: 3
+Consumed: 15381 | Buffer Count: 2
+Consumed: 5635 | Buffer Count: 1
+Produced: 18257 | Buffer Count: 2
+Consumed: 8645 | Buffer Count: 1
+Produced: 7033 | Buffer Count: 2
+Consumed: 18257 | Buffer Count: 1
+Produced: 14933 | Buffer Count: 2
+Consumed: 7033 | Buffer Count: 1
